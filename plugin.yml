@@ -1,5 +1,5 @@
 ﻿name: Licence
-api: 4.0.0
+api: 3.5.5
 main: Product\key\licence
 version: 1.0.1
 description: Licence Authentication
