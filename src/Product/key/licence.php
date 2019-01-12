@@ -28,7 +28,6 @@ class licence extends PluginBase implements Listener{
       $this->licenceString = file_get_contents($this->getDataFolder().'Licence.txt');
 
       $this->formId = mt_rand(1000, 999999);
-      $this->getLogger()->info("§cI loaded myself");
     }
 
   public function onJoin(PlayerJoinEvent $event){
