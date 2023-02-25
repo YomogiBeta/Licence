@@ -1,6 +1,6 @@
 ﻿name: Licence
-api: 3.5.5
+api: [4.0.0]
 main: Product\key\licence
-version: 1.0.1
+version: 2.0.0
 description: Licence Authentication
 author: Yomogiβ
